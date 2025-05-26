@@ -1,4 +1,3 @@
-# Factorial.py
 """
 # Pedir al usuario el numero a operar
 n = int(input("ingresa tu nuemero del que quiera factorial"))
